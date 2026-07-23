@@ -1,0 +1,12 @@
+# Reel I/O
+input/
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
